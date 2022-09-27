@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\AbdulQaharCode\bin\Debug\net5.0\AbdulQaharCode.exe
+C:\Users\TOSHIBA\source\repos\AbdulQaharCode\bin\Debug\net5.0\AbdulQaharCode.deps.json
+C:\Users\TOSHIBA\source\repos\AbdulQaharCode\bin\Debug\net5.0\AbdulQaharCode.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\AbdulQaharCode\bin\Debug\net5.0\AbdulQaharCode.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\AbdulQaharCode\bin\Debug\net5.0\AbdulQaharCode.dll
+C:\Users\TOSHIBA\source\repos\AbdulQaharCode\bin\Debug\net5.0\AbdulQaharCode.pdb
+C:\Users\TOSHIBA\source\repos\AbdulQaharCode\obj\Debug\net5.0\AbdulQaharCode.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\AbdulQaharCode\obj\Debug\net5.0\AbdulQaharCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\AbdulQaharCode\obj\Debug\net5.0\AbdulQaharCode.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\AbdulQaharCode\obj\Debug\net5.0\AbdulQaharCode.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\AbdulQaharCode\obj\Debug\net5.0\AbdulQaharCode.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\AbdulQaharCode\obj\Debug\net5.0\AbdulQaharCode.dll
+C:\Users\TOSHIBA\source\repos\AbdulQaharCode\obj\Debug\net5.0\refint\AbdulQaharCode.dll
+C:\Users\TOSHIBA\source\repos\AbdulQaharCode\obj\Debug\net5.0\AbdulQaharCode.pdb
+C:\Users\TOSHIBA\source\repos\AbdulQaharCode\obj\Debug\net5.0\AbdulQaharCode.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\AbdulQaharCode\obj\Debug\net5.0\ref\AbdulQaharCode.dll

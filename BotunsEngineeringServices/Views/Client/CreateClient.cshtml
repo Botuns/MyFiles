@@ -1,0 +1,33 @@
+﻿@using BotunsEngineeringServices.Enums
+@model BotunsEngineeringServices.Controllers.ClientController
+@{ ViewBag.Title = "CreateClient"; }
+<link rel="stylesheet" href="~/css/CreateClient.css" />
+<div class="ClientReg">
+    <form asp-action="CreateClient"> 
+    <label for="fname">Your FirstName:</label><br>
+  <input style="border-radius:4px;" type="text"  name="FirstName" ><br>
+  <label for="fname">Your LastName:</label><br>
+  <input type="text"  name="LastName" ><br>
+  <label for="fname">Your Email:</label><br>
+  <input type="email"  name="Email" ><br>
+  <label for="psword">Your Password:</label><br>
+  <input type="password"  name="Password" ><br>
+  <label for="gender" >Your Gender:</label><br>
+  <select name="Gender" required />
+  <option disabled selected>--Select Gender--</option>
+  <option value="Male">Male</option>
+  <option value="Female">Female</option>
+  <input name="Gender" ><br>
+  <label for="fname">Your PhoneNumber:</label><br>
+  <input type="tel"  name="PhoneNumber" ><br>
+  <label for="fname">Your Country:</label><br>
+  <input type="text"  name="Country" ><br>
+  <label for="fname">Your State:</label><br>
+  <input type="text"  name="State" ><br>
+  <label for="fname">Your Town:</label><br>
+  <input type="text"  name="Town" ><br>
+
+  <input  type="submit" value="Submit">
+  
+</form> 
+</div>

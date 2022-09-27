@@ -1,0 +1,5 @@
+C:\Users\TOSHIBA\source\repos\MY ASSIGNMENT\MY ASSIGNMENT\bin\Release\net5.0\publish\MY ASSIGNMENT.exe
+C:\Users\TOSHIBA\source\repos\MY ASSIGNMENT\MY ASSIGNMENT\bin\Release\net5.0\publish\MY ASSIGNMENT.dll
+C:\Users\TOSHIBA\source\repos\MY ASSIGNMENT\MY ASSIGNMENT\bin\Release\net5.0\publish\MY ASSIGNMENT.deps.json
+C:\Users\TOSHIBA\source\repos\MY ASSIGNMENT\MY ASSIGNMENT\bin\Release\net5.0\publish\MY ASSIGNMENT.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\MY ASSIGNMENT\MY ASSIGNMENT\bin\Release\net5.0\publish\MY ASSIGNMENT.pdb

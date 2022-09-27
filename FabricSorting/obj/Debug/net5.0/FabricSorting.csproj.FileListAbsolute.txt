@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\FabricSorting\bin\Debug\net5.0\FabricSorting.exe
+C:\Users\TOSHIBA\source\repos\FabricSorting\bin\Debug\net5.0\FabricSorting.deps.json
+C:\Users\TOSHIBA\source\repos\FabricSorting\bin\Debug\net5.0\FabricSorting.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\FabricSorting\bin\Debug\net5.0\FabricSorting.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\FabricSorting\bin\Debug\net5.0\FabricSorting.dll
+C:\Users\TOSHIBA\source\repos\FabricSorting\bin\Debug\net5.0\FabricSorting.pdb
+C:\Users\TOSHIBA\source\repos\FabricSorting\obj\Debug\net5.0\FabricSorting.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\FabricSorting\obj\Debug\net5.0\FabricSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\FabricSorting\obj\Debug\net5.0\FabricSorting.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\FabricSorting\obj\Debug\net5.0\FabricSorting.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\FabricSorting\obj\Debug\net5.0\FabricSorting.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\FabricSorting\obj\Debug\net5.0\FabricSorting.dll
+C:\Users\TOSHIBA\source\repos\FabricSorting\obj\Debug\net5.0\refint\FabricSorting.dll
+C:\Users\TOSHIBA\source\repos\FabricSorting\obj\Debug\net5.0\FabricSorting.pdb
+C:\Users\TOSHIBA\source\repos\FabricSorting\obj\Debug\net5.0\FabricSorting.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\FabricSorting\obj\Debug\net5.0\ref\FabricSorting.dll

@@ -1,0 +1,5 @@
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\bin\Release\net5.0\publish\MY STUDENT APP.exe
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\bin\Release\net5.0\publish\MY STUDENT APP.dll
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\bin\Release\net5.0\publish\MY STUDENT APP.deps.json
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\bin\Release\net5.0\publish\MY STUDENT APP.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\bin\Release\net5.0\publish\MY STUDENT APP.pdb

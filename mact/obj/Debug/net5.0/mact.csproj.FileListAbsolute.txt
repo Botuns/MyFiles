@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\mact\bin\Debug\net5.0\mact.exe
+C:\Users\TOSHIBA\source\repos\mact\bin\Debug\net5.0\mact.deps.json
+C:\Users\TOSHIBA\source\repos\mact\bin\Debug\net5.0\mact.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\mact\bin\Debug\net5.0\mact.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\mact\bin\Debug\net5.0\mact.dll
+C:\Users\TOSHIBA\source\repos\mact\bin\Debug\net5.0\mact.pdb
+C:\Users\TOSHIBA\source\repos\mact\obj\Debug\net5.0\mact.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\mact\obj\Debug\net5.0\mact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\mact\obj\Debug\net5.0\mact.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\mact\obj\Debug\net5.0\mact.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\mact\obj\Debug\net5.0\mact.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\mact\obj\Debug\net5.0\mact.dll
+C:\Users\TOSHIBA\source\repos\mact\obj\Debug\net5.0\refint\mact.dll
+C:\Users\TOSHIBA\source\repos\mact\obj\Debug\net5.0\mact.pdb
+C:\Users\TOSHIBA\source\repos\mact\obj\Debug\net5.0\mact.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\mact\obj\Debug\net5.0\ref\mact.dll

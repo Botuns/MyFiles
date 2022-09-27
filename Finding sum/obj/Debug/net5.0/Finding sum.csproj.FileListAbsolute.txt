@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\Finding sum\bin\Debug\net5.0\Finding sum.exe
+C:\Users\TOSHIBA\source\repos\Finding sum\bin\Debug\net5.0\Finding sum.deps.json
+C:\Users\TOSHIBA\source\repos\Finding sum\bin\Debug\net5.0\Finding sum.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\Finding sum\bin\Debug\net5.0\Finding sum.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\Finding sum\bin\Debug\net5.0\Finding sum.dll
+C:\Users\TOSHIBA\source\repos\Finding sum\bin\Debug\net5.0\Finding sum.pdb
+C:\Users\TOSHIBA\source\repos\Finding sum\obj\Debug\net5.0\Finding sum.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\Finding sum\obj\Debug\net5.0\Finding sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\Finding sum\obj\Debug\net5.0\Finding sum.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\Finding sum\obj\Debug\net5.0\Finding sum.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\Finding sum\obj\Debug\net5.0\Finding sum.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\Finding sum\obj\Debug\net5.0\Finding sum.dll
+C:\Users\TOSHIBA\source\repos\Finding sum\obj\Debug\net5.0\refint\Finding sum.dll
+C:\Users\TOSHIBA\source\repos\Finding sum\obj\Debug\net5.0\Finding sum.pdb
+C:\Users\TOSHIBA\source\repos\Finding sum\obj\Debug\net5.0\Finding sum.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\Finding sum\obj\Debug\net5.0\ref\Finding sum.dll

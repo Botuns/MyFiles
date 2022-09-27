@@ -1,0 +1,8 @@
+C:\Users\TOSHIBA\source\repos\BooksSystem\obj\Debug\net5.0\BooksSystem.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\BooksSystem\obj\Debug\net5.0\BooksSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\BooksSystem\obj\Debug\net5.0\BooksSystem.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\BooksSystem\obj\Debug\net5.0\BooksSystem.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\BooksSystem\obj\Debug\net5.0\BooksSystem.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\BooksSystem\obj\Debug\net5.0\BooksSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TOSHIBA\source\repos\BooksSystem\obj\Debug\net5.0\BooksSystem.RazorAssemblyInfo.cache
+C:\Users\TOSHIBA\source\repos\BooksSystem\obj\Debug\net5.0\BooksSystem.RazorAssemblyInfo.cs

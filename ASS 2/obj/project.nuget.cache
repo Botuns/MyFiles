@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uxHFgMcVJIwqkI4cdKdaXYs9l/KNqnBkmmPYTJG1hVIR9FOWh1Us5VRG+fA5eZLM9Pf+6w+19weJZOeZ0Fo1Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TOSHIBA\\source\\repos\\ASS 2\\ASS 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

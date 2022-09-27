@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\bin\Release\net5.0\MY STUDENT APP.exe
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\bin\Release\net5.0\MY STUDENT APP.deps.json
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\bin\Release\net5.0\MY STUDENT APP.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\bin\Release\net5.0\MY STUDENT APP.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\bin\Release\net5.0\MY STUDENT APP.dll
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\bin\Release\net5.0\MY STUDENT APP.pdb
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\obj\Release\net5.0\MY STUDENT APP.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\obj\Release\net5.0\MY STUDENT APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\obj\Release\net5.0\MY STUDENT APP.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\obj\Release\net5.0\MY STUDENT APP.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\obj\Release\net5.0\MY STUDENT APP.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\obj\Release\net5.0\MY STUDENT APP.dll
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\obj\Release\net5.0\refint\MY STUDENT APP.dll
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\obj\Release\net5.0\MY STUDENT APP.pdb
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\obj\Release\net5.0\MY STUDENT APP.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\MY STUDENT APP\obj\Release\net5.0\ref\MY STUDENT APP.dll

@@ -1,0 +1,5 @@
+C:\Users\TOSHIBA\source\repos\THE BOTUNS BANKING APP\obj\Debug\net5.0\THE BOTUNS BANKING APP.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\THE BOTUNS BANKING APP\obj\Debug\net5.0\THE BOTUNS BANKING APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\THE BOTUNS BANKING APP\obj\Debug\net5.0\THE BOTUNS BANKING APP.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\THE BOTUNS BANKING APP\obj\Debug\net5.0\THE BOTUNS BANKING APP.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\THE BOTUNS BANKING APP\obj\Debug\net5.0\THE BOTUNS BANKING APP.csproj.CoreCompileInputs.cache

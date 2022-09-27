@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\CodeByAbdQahar\bin\Debug\net5.0\CodeByAbdQahar.exe
+C:\Users\TOSHIBA\source\repos\CodeByAbdQahar\bin\Debug\net5.0\CodeByAbdQahar.deps.json
+C:\Users\TOSHIBA\source\repos\CodeByAbdQahar\bin\Debug\net5.0\CodeByAbdQahar.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\CodeByAbdQahar\bin\Debug\net5.0\CodeByAbdQahar.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\CodeByAbdQahar\bin\Debug\net5.0\CodeByAbdQahar.dll
+C:\Users\TOSHIBA\source\repos\CodeByAbdQahar\bin\Debug\net5.0\CodeByAbdQahar.pdb
+C:\Users\TOSHIBA\source\repos\CodeByAbdQahar\obj\Debug\net5.0\CodeByAbdQahar.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\CodeByAbdQahar\obj\Debug\net5.0\CodeByAbdQahar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\CodeByAbdQahar\obj\Debug\net5.0\CodeByAbdQahar.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\CodeByAbdQahar\obj\Debug\net5.0\CodeByAbdQahar.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\CodeByAbdQahar\obj\Debug\net5.0\CodeByAbdQahar.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\CodeByAbdQahar\obj\Debug\net5.0\CodeByAbdQahar.dll
+C:\Users\TOSHIBA\source\repos\CodeByAbdQahar\obj\Debug\net5.0\refint\CodeByAbdQahar.dll
+C:\Users\TOSHIBA\source\repos\CodeByAbdQahar\obj\Debug\net5.0\CodeByAbdQahar.pdb
+C:\Users\TOSHIBA\source\repos\CodeByAbdQahar\obj\Debug\net5.0\CodeByAbdQahar.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\CodeByAbdQahar\obj\Debug\net5.0\ref\CodeByAbdQahar.dll

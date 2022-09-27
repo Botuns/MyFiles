@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\BOTUNS BANKING APP\bin\Debug\net5.0\BOTUNS BANKING APP.exe
+C:\Users\TOSHIBA\source\repos\BOTUNS BANKING APP\bin\Debug\net5.0\BOTUNS BANKING APP.deps.json
+C:\Users\TOSHIBA\source\repos\BOTUNS BANKING APP\bin\Debug\net5.0\BOTUNS BANKING APP.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\BOTUNS BANKING APP\bin\Debug\net5.0\BOTUNS BANKING APP.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\BOTUNS BANKING APP\bin\Debug\net5.0\BOTUNS BANKING APP.dll
+C:\Users\TOSHIBA\source\repos\BOTUNS BANKING APP\bin\Debug\net5.0\BOTUNS BANKING APP.pdb
+C:\Users\TOSHIBA\source\repos\BOTUNS BANKING APP\obj\Debug\net5.0\BOTUNS BANKING APP.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\BOTUNS BANKING APP\obj\Debug\net5.0\BOTUNS BANKING APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\BOTUNS BANKING APP\obj\Debug\net5.0\BOTUNS BANKING APP.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\BOTUNS BANKING APP\obj\Debug\net5.0\BOTUNS BANKING APP.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\BOTUNS BANKING APP\obj\Debug\net5.0\BOTUNS BANKING APP.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\BOTUNS BANKING APP\obj\Debug\net5.0\BOTUNS BANKING APP.dll
+C:\Users\TOSHIBA\source\repos\BOTUNS BANKING APP\obj\Debug\net5.0\refint\BOTUNS BANKING APP.dll
+C:\Users\TOSHIBA\source\repos\BOTUNS BANKING APP\obj\Debug\net5.0\BOTUNS BANKING APP.pdb
+C:\Users\TOSHIBA\source\repos\BOTUNS BANKING APP\obj\Debug\net5.0\BOTUNS BANKING APP.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\BOTUNS BANKING APP\obj\Debug\net5.0\ref\BOTUNS BANKING APP.dll

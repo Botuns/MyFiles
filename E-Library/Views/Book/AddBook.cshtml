@@ -1,0 +1,34 @@
+﻿@model E_Library.Models.Book
+<body>
+    <div>
+        <form asp-action = "AddBook">
+            <div>
+			<label>
+				Book Name
+			</label>
+			<input type = "text" name = "BookName" required/>
+		</div>
+		<div>
+			<label>Book Category</label>
+			<select asp-for = "BookCategory" class="form-control" asp-items="ViewBag.Category" required><option value = "">select a category</option></select>
+		</div>
+		<div>
+			<label>Book Author</label>
+			<select asp-for="Allauthors" asp-items="ViewBag.Allauthors" required>
+			  <option selected disabled>-select Author(s)</option>
+			   
+		  </select>
+		</div>
+		<div>
+			<label>Isbn</label>
+			<input type = "text" name = "Isbn" required/>
+		</div>
+		<div>
+			<input type = "submit" value = "Create" required/>
+		</div>
+        
+
+		</form>
+            
+    </div>
+</body>

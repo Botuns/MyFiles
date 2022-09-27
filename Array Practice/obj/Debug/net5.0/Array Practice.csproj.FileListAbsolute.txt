@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\Array Practice\bin\Debug\net5.0\Array Practice.exe
+C:\Users\TOSHIBA\source\repos\Array Practice\bin\Debug\net5.0\Array Practice.deps.json
+C:\Users\TOSHIBA\source\repos\Array Practice\bin\Debug\net5.0\Array Practice.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\Array Practice\bin\Debug\net5.0\Array Practice.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\Array Practice\bin\Debug\net5.0\Array Practice.dll
+C:\Users\TOSHIBA\source\repos\Array Practice\bin\Debug\net5.0\Array Practice.pdb
+C:\Users\TOSHIBA\source\repos\Array Practice\obj\Debug\net5.0\Array Practice.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\Array Practice\obj\Debug\net5.0\Array Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\Array Practice\obj\Debug\net5.0\Array Practice.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\Array Practice\obj\Debug\net5.0\Array Practice.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\Array Practice\obj\Debug\net5.0\Array Practice.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\Array Practice\obj\Debug\net5.0\Array Practice.dll
+C:\Users\TOSHIBA\source\repos\Array Practice\obj\Debug\net5.0\refint\Array Practice.dll
+C:\Users\TOSHIBA\source\repos\Array Practice\obj\Debug\net5.0\Array Practice.pdb
+C:\Users\TOSHIBA\source\repos\Array Practice\obj\Debug\net5.0\Array Practice.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\Array Practice\obj\Debug\net5.0\ref\Array Practice.dll

@@ -1,0 +1,46 @@
+﻿@using System.Data
+@using Charts
+@using System.Xml
+@using System.Web
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+@{
+    var myChart = new Chart(width: 600, height: 400)
+        .AddTitle("Chart Title")
+        .AddSeries(
+            name: "Employee",
+            xValue: new[] {  "Peter", "Andrew", "Julie", "Mary", "Dave" },
+            yValues: new[] { "2", "6", "4", "5", "3" })
+        .Write();
+}
+<div>
+    @{
+    var db = Database.Open("SmallBakery");
+    var data = db.Query("SELECT Name, Price FROM Product");
+    var myChar = new Chart(width: 600, height: 400)
+        .AddTitle("Product Sales")
+        .DataBindTable(dataSource: data, xField: "Name")
+        .Write();
+}
+</div>
+<div>
+    @{
+    var dataSet = new DataSet();
+    dataSet.ReadXmlSchema(Server.MapPath("~/App_Data/data.xsd"));
+    dataSet.ReadXml(Server.MapPath("~/App_Data/data.xml"));
+    var dataView = new DataView(dataSet.Tables[0]);
+
+    var myChart = new Chart(width: 600, height: 400)
+        .AddTitle("Sales Per Employee")
+        .AddSeries("Default", chartType: "Pie",
+            xValue: dataView, xField: "Name",
+            yValues: dataView, yFields: "Sales")
+        .Write();
+}
+</div>

@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\ASS CLS AND OBJ\bin\Debug\net5.0\ASS CLS AND OBJ.exe
+C:\Users\TOSHIBA\source\repos\ASS CLS AND OBJ\bin\Debug\net5.0\ASS CLS AND OBJ.deps.json
+C:\Users\TOSHIBA\source\repos\ASS CLS AND OBJ\bin\Debug\net5.0\ASS CLS AND OBJ.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\ASS CLS AND OBJ\bin\Debug\net5.0\ASS CLS AND OBJ.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\ASS CLS AND OBJ\bin\Debug\net5.0\ASS CLS AND OBJ.dll
+C:\Users\TOSHIBA\source\repos\ASS CLS AND OBJ\bin\Debug\net5.0\ASS CLS AND OBJ.pdb
+C:\Users\TOSHIBA\source\repos\ASS CLS AND OBJ\obj\Debug\net5.0\ASS CLS AND OBJ.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\ASS CLS AND OBJ\obj\Debug\net5.0\ASS CLS AND OBJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\ASS CLS AND OBJ\obj\Debug\net5.0\ASS CLS AND OBJ.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\ASS CLS AND OBJ\obj\Debug\net5.0\ASS CLS AND OBJ.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\ASS CLS AND OBJ\obj\Debug\net5.0\ASS CLS AND OBJ.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\ASS CLS AND OBJ\obj\Debug\net5.0\ASS CLS AND OBJ.dll
+C:\Users\TOSHIBA\source\repos\ASS CLS AND OBJ\obj\Debug\net5.0\refint\ASS CLS AND OBJ.dll
+C:\Users\TOSHIBA\source\repos\ASS CLS AND OBJ\obj\Debug\net5.0\ASS CLS AND OBJ.pdb
+C:\Users\TOSHIBA\source\repos\ASS CLS AND OBJ\obj\Debug\net5.0\ASS CLS AND OBJ.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\ASS CLS AND OBJ\obj\Debug\net5.0\ref\ASS CLS AND OBJ.dll

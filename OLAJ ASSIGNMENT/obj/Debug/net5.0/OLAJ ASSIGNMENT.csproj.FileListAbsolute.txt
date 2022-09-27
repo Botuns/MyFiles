@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\OLAJ ASSIGNMENT\bin\Debug\net5.0\OLAJ ASSIGNMENT.exe
+C:\Users\TOSHIBA\source\repos\OLAJ ASSIGNMENT\bin\Debug\net5.0\OLAJ ASSIGNMENT.deps.json
+C:\Users\TOSHIBA\source\repos\OLAJ ASSIGNMENT\bin\Debug\net5.0\OLAJ ASSIGNMENT.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\OLAJ ASSIGNMENT\bin\Debug\net5.0\OLAJ ASSIGNMENT.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\OLAJ ASSIGNMENT\bin\Debug\net5.0\OLAJ ASSIGNMENT.dll
+C:\Users\TOSHIBA\source\repos\OLAJ ASSIGNMENT\bin\Debug\net5.0\OLAJ ASSIGNMENT.pdb
+C:\Users\TOSHIBA\source\repos\OLAJ ASSIGNMENT\obj\Debug\net5.0\OLAJ ASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\OLAJ ASSIGNMENT\obj\Debug\net5.0\OLAJ ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\OLAJ ASSIGNMENT\obj\Debug\net5.0\OLAJ ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\OLAJ ASSIGNMENT\obj\Debug\net5.0\OLAJ ASSIGNMENT.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\OLAJ ASSIGNMENT\obj\Debug\net5.0\OLAJ ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\OLAJ ASSIGNMENT\obj\Debug\net5.0\OLAJ ASSIGNMENT.dll
+C:\Users\TOSHIBA\source\repos\OLAJ ASSIGNMENT\obj\Debug\net5.0\refint\OLAJ ASSIGNMENT.dll
+C:\Users\TOSHIBA\source\repos\OLAJ ASSIGNMENT\obj\Debug\net5.0\OLAJ ASSIGNMENT.pdb
+C:\Users\TOSHIBA\source\repos\OLAJ ASSIGNMENT\obj\Debug\net5.0\OLAJ ASSIGNMENT.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\OLAJ ASSIGNMENT\obj\Debug\net5.0\ref\OLAJ ASSIGNMENT.dll

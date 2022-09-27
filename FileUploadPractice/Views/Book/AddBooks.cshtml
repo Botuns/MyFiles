@@ -1,0 +1,10 @@
+﻿@model FileUploadPractice.Controllers.BookController
+<div>
+    <form asp-action="AddBooks" enctype="multipart/form-data"> 
+    <label for="fname">Book name:</label><br>
+  <input type="text"  name="Bookname" ><br>
+  <label for="lname">Picture:</label><br>
+  <input type="file"  name="file" ><br><br>
+  <input  type="submit" value="Submit">
+</form> 
+</div>

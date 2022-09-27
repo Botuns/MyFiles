@@ -1,0 +1,8 @@
+C:\Users\TOSHIBA\source\repos\Charts\obj\Debug\net6.0\Charts.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\Charts\obj\Debug\net6.0\Charts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\Charts\obj\Debug\net6.0\Charts.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\Charts\obj\Debug\net6.0\Charts.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\Charts\obj\Debug\net6.0\Charts.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\Charts\obj\Debug\net6.0\Charts.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TOSHIBA\source\repos\Charts\obj\Debug\net6.0\Charts.RazorAssemblyInfo.cache
+C:\Users\TOSHIBA\source\repos\Charts\obj\Debug\net6.0\Charts.RazorAssemblyInfo.cs

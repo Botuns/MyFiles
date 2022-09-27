@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B3snZyI9kSRyDEpZXQxh2eEvn/7ggwwoHTCEJ2XkpK/A0NWk/eGvWaSQlZ1KNndO7o/4JkitIsShuJ5/qrHC3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TOSHIBA\\source\\repos\\STUDENT APPLICATION\\STUDENT APPLICATION.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

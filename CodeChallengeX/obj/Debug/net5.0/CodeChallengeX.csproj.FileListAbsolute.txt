@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\CodeChallengeX\bin\Debug\net5.0\CodeChallengeX.exe
+C:\Users\TOSHIBA\source\repos\CodeChallengeX\bin\Debug\net5.0\CodeChallengeX.deps.json
+C:\Users\TOSHIBA\source\repos\CodeChallengeX\bin\Debug\net5.0\CodeChallengeX.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\CodeChallengeX\bin\Debug\net5.0\CodeChallengeX.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\CodeChallengeX\bin\Debug\net5.0\CodeChallengeX.dll
+C:\Users\TOSHIBA\source\repos\CodeChallengeX\bin\Debug\net5.0\CodeChallengeX.pdb
+C:\Users\TOSHIBA\source\repos\CodeChallengeX\obj\Debug\net5.0\CodeChallengeX.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\CodeChallengeX\obj\Debug\net5.0\CodeChallengeX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\CodeChallengeX\obj\Debug\net5.0\CodeChallengeX.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\CodeChallengeX\obj\Debug\net5.0\CodeChallengeX.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\CodeChallengeX\obj\Debug\net5.0\CodeChallengeX.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\CodeChallengeX\obj\Debug\net5.0\CodeChallengeX.dll
+C:\Users\TOSHIBA\source\repos\CodeChallengeX\obj\Debug\net5.0\refint\CodeChallengeX.dll
+C:\Users\TOSHIBA\source\repos\CodeChallengeX\obj\Debug\net5.0\CodeChallengeX.pdb
+C:\Users\TOSHIBA\source\repos\CodeChallengeX\obj\Debug\net5.0\CodeChallengeX.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\CodeChallengeX\obj\Debug\net5.0\ref\CodeChallengeX.dll

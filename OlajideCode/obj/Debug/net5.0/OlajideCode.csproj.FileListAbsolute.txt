@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\OlajideCode\bin\Debug\net5.0\OlajideCode.exe
+C:\Users\TOSHIBA\source\repos\OlajideCode\bin\Debug\net5.0\OlajideCode.deps.json
+C:\Users\TOSHIBA\source\repos\OlajideCode\bin\Debug\net5.0\OlajideCode.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\OlajideCode\bin\Debug\net5.0\OlajideCode.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\OlajideCode\bin\Debug\net5.0\OlajideCode.dll
+C:\Users\TOSHIBA\source\repos\OlajideCode\bin\Debug\net5.0\OlajideCode.pdb
+C:\Users\TOSHIBA\source\repos\OlajideCode\obj\Debug\net5.0\OlajideCode.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\OlajideCode\obj\Debug\net5.0\OlajideCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\OlajideCode\obj\Debug\net5.0\OlajideCode.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\OlajideCode\obj\Debug\net5.0\OlajideCode.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\OlajideCode\obj\Debug\net5.0\OlajideCode.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\OlajideCode\obj\Debug\net5.0\OlajideCode.dll
+C:\Users\TOSHIBA\source\repos\OlajideCode\obj\Debug\net5.0\refint\OlajideCode.dll
+C:\Users\TOSHIBA\source\repos\OlajideCode\obj\Debug\net5.0\OlajideCode.pdb
+C:\Users\TOSHIBA\source\repos\OlajideCode\obj\Debug\net5.0\OlajideCode.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\OlajideCode\obj\Debug\net5.0\ref\OlajideCode.dll

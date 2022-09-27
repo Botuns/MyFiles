@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\class activity 2\bin\Debug\net5.0\class activity 2.exe
+C:\Users\TOSHIBA\source\repos\class activity 2\bin\Debug\net5.0\class activity 2.deps.json
+C:\Users\TOSHIBA\source\repos\class activity 2\bin\Debug\net5.0\class activity 2.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\class activity 2\bin\Debug\net5.0\class activity 2.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\class activity 2\bin\Debug\net5.0\class activity 2.dll
+C:\Users\TOSHIBA\source\repos\class activity 2\bin\Debug\net5.0\class activity 2.pdb
+C:\Users\TOSHIBA\source\repos\class activity 2\obj\Debug\net5.0\class activity 2.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\class activity 2\obj\Debug\net5.0\class activity 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\class activity 2\obj\Debug\net5.0\class activity 2.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\class activity 2\obj\Debug\net5.0\class activity 2.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\class activity 2\obj\Debug\net5.0\class activity 2.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\class activity 2\obj\Debug\net5.0\class activity 2.dll
+C:\Users\TOSHIBA\source\repos\class activity 2\obj\Debug\net5.0\refint\class activity 2.dll
+C:\Users\TOSHIBA\source\repos\class activity 2\obj\Debug\net5.0\class activity 2.pdb
+C:\Users\TOSHIBA\source\repos\class activity 2\obj\Debug\net5.0\class activity 2.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\class activity 2\obj\Debug\net5.0\ref\class activity 2.dll

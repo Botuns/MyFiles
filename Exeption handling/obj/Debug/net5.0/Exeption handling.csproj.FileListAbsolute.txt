@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\Exeption handling\bin\Debug\net5.0\Exeption handling.exe
+C:\Users\TOSHIBA\source\repos\Exeption handling\bin\Debug\net5.0\Exeption handling.deps.json
+C:\Users\TOSHIBA\source\repos\Exeption handling\bin\Debug\net5.0\Exeption handling.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\Exeption handling\bin\Debug\net5.0\Exeption handling.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\Exeption handling\bin\Debug\net5.0\Exeption handling.dll
+C:\Users\TOSHIBA\source\repos\Exeption handling\bin\Debug\net5.0\Exeption handling.pdb
+C:\Users\TOSHIBA\source\repos\Exeption handling\obj\Debug\net5.0\Exeption handling.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\Exeption handling\obj\Debug\net5.0\Exeption handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\Exeption handling\obj\Debug\net5.0\Exeption handling.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\Exeption handling\obj\Debug\net5.0\Exeption handling.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\Exeption handling\obj\Debug\net5.0\Exeption handling.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\Exeption handling\obj\Debug\net5.0\Exeption handling.dll
+C:\Users\TOSHIBA\source\repos\Exeption handling\obj\Debug\net5.0\refint\Exeption handling.dll
+C:\Users\TOSHIBA\source\repos\Exeption handling\obj\Debug\net5.0\Exeption handling.pdb
+C:\Users\TOSHIBA\source\repos\Exeption handling\obj\Debug\net5.0\Exeption handling.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\Exeption handling\obj\Debug\net5.0\ref\Exeption handling.dll

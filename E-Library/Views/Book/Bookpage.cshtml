@@ -1,0 +1,66 @@
+﻿@using E_Library.Controllers
+@model List<Book>
+
+@using E_Library.Models
+<table style = "color: green" class = "table">
+    <thead>
+			<tr>
+				<th>
+					Id
+				</th>
+				<th>
+					Book Name
+				</th>
+				@*<th>
+					Book Category
+				</th>*@
+				<th>
+					Book Category 
+				</th>
+				<th>
+					Author
+				</th>
+				<th>
+					Isbn
+				</th>
+				<th>
+					Edit
+				</th>
+				<th>
+					Delete
+				</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach(var book in Model)
+			{
+				<tr>
+					<th>
+						@book.Id
+					</th>
+					<th>
+						@book.BookName
+					</th>
+					@*<th>
+						@book.BookCategory
+					</th>*@
+					<th>
+						@book.CategoryId
+					</th>
+					<th>
+						@book.Allauthors
+					</th>
+					<th>
+						@book.Isbn
+					</th>
+					<th>
+						<a asp-action = "UpdateBook" asp-route-id = "@book.Id">Update</a>
+					</th>
+					<th>
+						<a asp-action = "DeleteBook" asp-route-id = "@book.Id">Delete</a>
+					</th>
+					
+				</tr>
+			}
+		</tbody>
+</table>

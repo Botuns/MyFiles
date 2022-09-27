@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\STUDENT APPLICATION\bin\Debug\net5.0\STUDENT APPLICATION.exe
+C:\Users\TOSHIBA\source\repos\STUDENT APPLICATION\bin\Debug\net5.0\STUDENT APPLICATION.deps.json
+C:\Users\TOSHIBA\source\repos\STUDENT APPLICATION\bin\Debug\net5.0\STUDENT APPLICATION.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\STUDENT APPLICATION\bin\Debug\net5.0\STUDENT APPLICATION.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\STUDENT APPLICATION\bin\Debug\net5.0\STUDENT APPLICATION.dll
+C:\Users\TOSHIBA\source\repos\STUDENT APPLICATION\bin\Debug\net5.0\STUDENT APPLICATION.pdb
+C:\Users\TOSHIBA\source\repos\STUDENT APPLICATION\obj\Debug\net5.0\STUDENT APPLICATION.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\STUDENT APPLICATION\obj\Debug\net5.0\STUDENT APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\STUDENT APPLICATION\obj\Debug\net5.0\STUDENT APPLICATION.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\STUDENT APPLICATION\obj\Debug\net5.0\STUDENT APPLICATION.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\STUDENT APPLICATION\obj\Debug\net5.0\STUDENT APPLICATION.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\STUDENT APPLICATION\obj\Debug\net5.0\STUDENT APPLICATION.dll
+C:\Users\TOSHIBA\source\repos\STUDENT APPLICATION\obj\Debug\net5.0\refint\STUDENT APPLICATION.dll
+C:\Users\TOSHIBA\source\repos\STUDENT APPLICATION\obj\Debug\net5.0\STUDENT APPLICATION.pdb
+C:\Users\TOSHIBA\source\repos\STUDENT APPLICATION\obj\Debug\net5.0\STUDENT APPLICATION.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\STUDENT APPLICATION\obj\Debug\net5.0\ref\STUDENT APPLICATION.dll

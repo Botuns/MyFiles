@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\TO MUM\bin\Debug\net5.0\TO MUM.exe
+C:\Users\TOSHIBA\source\repos\TO MUM\bin\Debug\net5.0\TO MUM.deps.json
+C:\Users\TOSHIBA\source\repos\TO MUM\bin\Debug\net5.0\TO MUM.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\TO MUM\bin\Debug\net5.0\TO MUM.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\TO MUM\bin\Debug\net5.0\TO MUM.dll
+C:\Users\TOSHIBA\source\repos\TO MUM\bin\Debug\net5.0\TO MUM.pdb
+C:\Users\TOSHIBA\source\repos\TO MUM\obj\Debug\net5.0\TO MUM.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\TO MUM\obj\Debug\net5.0\TO MUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\TO MUM\obj\Debug\net5.0\TO MUM.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\TO MUM\obj\Debug\net5.0\TO MUM.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\TO MUM\obj\Debug\net5.0\TO MUM.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\TO MUM\obj\Debug\net5.0\TO MUM.dll
+C:\Users\TOSHIBA\source\repos\TO MUM\obj\Debug\net5.0\refint\TO MUM.dll
+C:\Users\TOSHIBA\source\repos\TO MUM\obj\Debug\net5.0\TO MUM.pdb
+C:\Users\TOSHIBA\source\repos\TO MUM\obj\Debug\net5.0\TO MUM.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\TO MUM\obj\Debug\net5.0\ref\TO MUM.dll

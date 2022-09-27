@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v8BMBpCAOraedkFOnH54I4xLTb108T7z0eScxcBFIzQIRjFUdJo1blvcl8OwuY01FhNzKnbDXCs3I2meGbkOWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TOSHIBA\\source\\repos\\Auth\\Auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MIxUDsaIHoO9f695zsbyG0jg25oyDL1Uk/cP8K+BarmHkPCT7pVEGKS6WJ20aDPWDAJBnfhRJTgJfI+yQ+n/ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TOSHIBA\\source\\repos\\CodeByAbdQahar\\CodeByAbdQahar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

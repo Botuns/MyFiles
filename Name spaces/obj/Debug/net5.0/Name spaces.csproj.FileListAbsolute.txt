@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\Name spaces\bin\Debug\net5.0\Name spaces.exe
+C:\Users\TOSHIBA\source\repos\Name spaces\bin\Debug\net5.0\Name spaces.deps.json
+C:\Users\TOSHIBA\source\repos\Name spaces\bin\Debug\net5.0\Name spaces.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\Name spaces\bin\Debug\net5.0\Name spaces.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\Name spaces\bin\Debug\net5.0\Name spaces.dll
+C:\Users\TOSHIBA\source\repos\Name spaces\bin\Debug\net5.0\Name spaces.pdb
+C:\Users\TOSHIBA\source\repos\Name spaces\obj\Debug\net5.0\Name spaces.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\Name spaces\obj\Debug\net5.0\Name spaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\Name spaces\obj\Debug\net5.0\Name spaces.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\Name spaces\obj\Debug\net5.0\Name spaces.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\Name spaces\obj\Debug\net5.0\Name spaces.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\Name spaces\obj\Debug\net5.0\Name spaces.dll
+C:\Users\TOSHIBA\source\repos\Name spaces\obj\Debug\net5.0\refint\Name spaces.dll
+C:\Users\TOSHIBA\source\repos\Name spaces\obj\Debug\net5.0\Name spaces.pdb
+C:\Users\TOSHIBA\source\repos\Name spaces\obj\Debug\net5.0\Name spaces.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\Name spaces\obj\Debug\net5.0\ref\Name spaces.dll

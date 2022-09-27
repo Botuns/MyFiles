@@ -1,0 +1,39 @@
+﻿@using FileUploadPractice.Entities
+@model IEnumerable<Book>
+<p>Below is the available book list:</p>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Id
+                </th>
+                <th>
+                    Name
+                </th>>
+                <th>
+                    Picture
+                </th>
+            </tr>
+        </thead>>
+        <tbody>
+        </tbody>
+        @foreach (var books in Model)
+        {
+            <tr>
+                <th>
+                    @books.Id
+                </th>
+                <th>
+                    @books.BookName
+                </th>
+                <th>
+                    @books.Picture
+                </th>
+            </tr>
+        }
+        <tbody>
+
+    </table>
+</div>

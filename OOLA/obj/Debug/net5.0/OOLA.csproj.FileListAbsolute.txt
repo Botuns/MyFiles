@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\OOLA\bin\Debug\net5.0\OOLA.exe
+C:\Users\TOSHIBA\source\repos\OOLA\bin\Debug\net5.0\OOLA.deps.json
+C:\Users\TOSHIBA\source\repos\OOLA\bin\Debug\net5.0\OOLA.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\OOLA\bin\Debug\net5.0\OOLA.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\OOLA\bin\Debug\net5.0\OOLA.dll
+C:\Users\TOSHIBA\source\repos\OOLA\bin\Debug\net5.0\OOLA.pdb
+C:\Users\TOSHIBA\source\repos\OOLA\obj\Debug\net5.0\OOLA.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\OOLA\obj\Debug\net5.0\OOLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\OOLA\obj\Debug\net5.0\OOLA.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\OOLA\obj\Debug\net5.0\OOLA.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\OOLA\obj\Debug\net5.0\OOLA.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\OOLA\obj\Debug\net5.0\OOLA.dll
+C:\Users\TOSHIBA\source\repos\OOLA\obj\Debug\net5.0\refint\OOLA.dll
+C:\Users\TOSHIBA\source\repos\OOLA\obj\Debug\net5.0\OOLA.pdb
+C:\Users\TOSHIBA\source\repos\OOLA\obj\Debug\net5.0\OOLA.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\OOLA\obj\Debug\net5.0\ref\OOLA.dll

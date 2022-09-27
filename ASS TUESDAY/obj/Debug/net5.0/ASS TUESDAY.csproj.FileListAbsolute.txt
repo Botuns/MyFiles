@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\ASS TUESDAY\bin\Debug\net5.0\ASS TUESDAY.exe
+C:\Users\TOSHIBA\source\repos\ASS TUESDAY\bin\Debug\net5.0\ASS TUESDAY.deps.json
+C:\Users\TOSHIBA\source\repos\ASS TUESDAY\bin\Debug\net5.0\ASS TUESDAY.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\ASS TUESDAY\bin\Debug\net5.0\ASS TUESDAY.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\ASS TUESDAY\bin\Debug\net5.0\ASS TUESDAY.dll
+C:\Users\TOSHIBA\source\repos\ASS TUESDAY\bin\Debug\net5.0\ASS TUESDAY.pdb
+C:\Users\TOSHIBA\source\repos\ASS TUESDAY\obj\Debug\net5.0\ASS TUESDAY.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\ASS TUESDAY\obj\Debug\net5.0\ASS TUESDAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\ASS TUESDAY\obj\Debug\net5.0\ASS TUESDAY.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\ASS TUESDAY\obj\Debug\net5.0\ASS TUESDAY.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\ASS TUESDAY\obj\Debug\net5.0\ASS TUESDAY.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\ASS TUESDAY\obj\Debug\net5.0\ASS TUESDAY.dll
+C:\Users\TOSHIBA\source\repos\ASS TUESDAY\obj\Debug\net5.0\refint\ASS TUESDAY.dll
+C:\Users\TOSHIBA\source\repos\ASS TUESDAY\obj\Debug\net5.0\ASS TUESDAY.pdb
+C:\Users\TOSHIBA\source\repos\ASS TUESDAY\obj\Debug\net5.0\ASS TUESDAY.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\ASS TUESDAY\obj\Debug\net5.0\ref\ASS TUESDAY.dll

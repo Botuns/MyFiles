@@ -1,0 +1,16 @@
+C:\Users\TOSHIBA\source\repos\ASS 2\bin\Debug\net5.0\ASS 2.exe
+C:\Users\TOSHIBA\source\repos\ASS 2\bin\Debug\net5.0\ASS 2.deps.json
+C:\Users\TOSHIBA\source\repos\ASS 2\bin\Debug\net5.0\ASS 2.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\ASS 2\bin\Debug\net5.0\ASS 2.runtimeconfig.dev.json
+C:\Users\TOSHIBA\source\repos\ASS 2\bin\Debug\net5.0\ASS 2.dll
+C:\Users\TOSHIBA\source\repos\ASS 2\bin\Debug\net5.0\ASS 2.pdb
+C:\Users\TOSHIBA\source\repos\ASS 2\obj\Debug\net5.0\ASS 2.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\ASS 2\obj\Debug\net5.0\ASS 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\ASS 2\obj\Debug\net5.0\ASS 2.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\ASS 2\obj\Debug\net5.0\ASS 2.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\ASS 2\obj\Debug\net5.0\ASS 2.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\ASS 2\obj\Debug\net5.0\ASS 2.dll
+C:\Users\TOSHIBA\source\repos\ASS 2\obj\Debug\net5.0\refint\ASS 2.dll
+C:\Users\TOSHIBA\source\repos\ASS 2\obj\Debug\net5.0\ASS 2.pdb
+C:\Users\TOSHIBA\source\repos\ASS 2\obj\Debug\net5.0\ASS 2.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\ASS 2\obj\Debug\net5.0\ref\ASS 2.dll

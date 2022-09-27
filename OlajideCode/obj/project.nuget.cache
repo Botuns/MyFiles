@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rDgYHodGuup8SGqtdhysYWk1neU0rSXJdjRcAWDQQLssDaPOAD4aw6Ky58xfmNlGzP2OlAIEswThtpSAOqdnYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TOSHIBA\\source\\repos\\OlajideCode\\OlajideCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TOSHIBA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
